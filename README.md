@@ -11,4 +11,6 @@ Actividad para aplicar conceptos de branch, merge y pull request
 
 ## Nombres:
  - Ezequiel González.  
- - Facundo Méndez
+ - Facundo Méndez.
+ - Martín Cabral.
+
