@@ -9,4 +9,6 @@ Actividad para aplicar conceptos de branch, merge y pull request
 
 **Entregan link al repo. Agreguen a los profesores como colaboradores.**
 
-Facundo Méndez
+## Nombres:
+ - Ezequiel González.  
+ - Facundo Méndez
