@@ -8,3 +8,5 @@ Actividad para aplicar conceptos de branch, merge y pull request
  - Las ramas creadas, cómo se bifurcan, y cómo se unen con la rama principal pueden verlas en el network graph. Para ver gráficamente las contribuciones de cada miembro del equipo pueden usar el contributors graph. Los profesores vamos a estar revisando estos gráficos en este ejercicio y también en el proyecto para ver cómo aporta cada miembro del equipo al proyecto.
 
 **Entregan link al repo. Agreguen a los profesores como colaboradores.**
+
+Santiago Amoretti
