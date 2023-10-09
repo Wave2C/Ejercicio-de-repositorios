@@ -9,4 +9,9 @@ Actividad para aplicar conceptos de branch, merge y pull request
 
 **Entregan link al repo. Agreguen a los profesores como colaboradores.**
 
-Cristof Kunze
+## Nombres:
+ - Santiago Amoretti.
+ - Martín Cabral.
+ - Ezequiel González.  
+ - Facundo Méndez.
+ - Cristof Kunze
