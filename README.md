@@ -9,4 +9,8 @@ Actividad para aplicar conceptos de branch, merge y pull request
 
 **Entregan link al repo. Agreguen a los profesores como colaboradores.**
 
-Santiago Amoretti
+## Nombres:
+ - Santiago Amoretti.
+ - Martín Cabral.
+ - Ezequiel González.  
+ - Facundo Méndez.
